@@ -14,7 +14,7 @@ SPA
 - Difference between Single page application and multy page application :- <br />
      ▶ User experience : - <br />
                SPA provoid smoother and more responsive user experience since they only update portion of the page that have chenged , resulting the faster navigation and reduced latency .<br />
-               MPA may have slower performance due to reload entire page
+               MPA may have slower performance due to reload entire page <br />
      ▶ Performance : - <br />
                SPA only fetch and render the neccessory data for each interaction so its tend to be efficient in data transfer and server load. <br />
                MPA may reqiure serve to genarate and serve complete HTML page for each request so its take higher serve load and slower performance
@@ -24,3 +24,7 @@ SPA
      ▶ Search Engine Optimisation (SEO) : - <br />
                SPA initially faced challanges with SEO due to client-side render <br />
                MPA have better SEO since search engine can simply find and index individual HTML page
+----------
+CDN
+----------
+- What is content delivery network (CDN) ? <br />
