@@ -27,4 +27,18 @@ SPA
 ----------
 CDN
 ----------
-- What is content delivery network (CDN) ? <br />
+- What is content delivery (distribution) network (CDN) ? <br />
+     A system of distributed servers that deliver web condent to users based on their geographical locations. <br />
+- How the CDN work ? <br />
+     When a user requests content from the website, the CDN dynamically determines the user's location and routes the request to the nearest server in the network. The server then delivers the content to the user,
+----------
+REACT
+----------
+- What is REACT ?
+       React is an open source javascript front-end library use to create interactive user interfaces (UI) . Especially for single page applicaiton , its creted by Jordan Walke from facebook in 2011 . React allows developers to leverage small modules or components to develop the entire UI.
+- Features of react
+       🚀 Modularity and scalability
+       🚀 Faster rendering process
+       🚀 Enhanced code structure stability
+       🚀 Easy to use and learn
+       🚀 Code reusability
