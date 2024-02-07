@@ -20,4 +20,7 @@ SPA
                MPA may reqiure serve to genarate and serve complete HTML page for each request so its take higher serve load and slower performance
      ▶ Development : - <br />
                SPA can be more complex to develop and maintain , Especially for large application due to the need for client-side routing , state management and asynchronous data handling <br />
-               MPA 
+               MPA is easier or simpler development required , they follow more treditional server-side rendering approach <br />
+     ▶ Search Engine Optimisation (SEO) : - <br />
+               SPA initially faced challanges with SEO due to client-side render <br />
+               MPA have better SEO since search engine can simply find and index individual HTML page
