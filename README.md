@@ -36,9 +36,9 @@ REACT
 ----------
 - What is REACT ?
        React is an open source javascript front-end library use to create interactive user interfaces (UI) . Especially for single page applicaiton , its creted by Jordan Walke from facebook in 2011 . React allows developers to leverage small modules or components to develop the entire UI.
-- Features of react
-       🚀 Modularity and scalability
-       🚀 Faster rendering process
-       🚀 Enhanced code structure stability
-       🚀 Easy to use and learn
-       🚀 Code reusability
+- Features of react <br />
+       🚀 Modularity and scalability <br />
+       🚀 Faster rendering process <br />
+       🚀 Enhanced code structure stability <br />
+       🚀 Easy to use and learn <br />
+       🚀 Code reusability <br />
