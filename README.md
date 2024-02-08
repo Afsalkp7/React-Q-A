@@ -34,7 +34,12 @@ CDN
 - What is content delivery (distribution) network (CDN) ? <br />
      A system of distributed servers that deliver web condent to users based on their geographical locations. <br />
 - How the CDN work ? <br />
-     When a user requests content from the website, the CDN dynamically determines the user's location and routes the request to the nearest server in the network. Then the server delivers the content to the user,
+     When a user requests content from the website, the CDN dynamically determines the user's location and routes the request to the nearest server in the network. Then the server delivers the content to the user, <br />
+----------
+EMMET
+----------
+- What is "Emmet" ? <br />
+     Emmet is essential toolkit for web-developers . It allows you to 'type shortcut' that are then expanded into full pieces
 ----------
 REACT
 ----------
