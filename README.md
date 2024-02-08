@@ -4,6 +4,10 @@ LIBRARY AND FRAMEWORK
 ---------
 - What is library and framework :- <br />
      Both frameworks and libraries are code written by someone else that is used to help solve common problems. <br />
+     - Library : - <br />
+          Library is a collection of pre writened code that you can to perform specific task . <br />
+     - Framework : - <br />
+          Framework is a structure that you can build softwere on
 - Differents between library and framework :- <br />
      Inversion of control :- When you use a library, you are in charge of the flow of the application. You are choosing when and where to call the library. When you use a framework, the framework is in charge of the flow. It provides some places for you to plug in your code, but it calls the code you plugged in as needed.
 ---------
