@@ -41,6 +41,11 @@ EMMET
 - What is "Emmet" ? <br />
      Emmet is essential toolkit for web-developers . It allows you to 'type shortcut' that are then expanded into full pieces
 ----------
+CROSSORIGIN
+----------
+- What is `crossorigin in script tag`?  <br />
+     crossorigin attribute is used to share the resources from one domain to another domain. Basically, it is used to handle the CORS request . That checks whether it is safe to allow for sharing the resources from other domains.
+----------
 REACT
 ----------
 - What is REACT ?
@@ -51,3 +56,11 @@ REACT
        🚀 Enhanced code structure stability <br />
        🚀 Easy to use and learn <br />
        🚀 Code reusability <br />
+----------
+REACT AND REACTDON
+----------
+- Difference between react and react dom ? <br />
+     React is a javascript library for creating interactive user interfaces<br />
+     React DOM is also a javascript library that allow react to interact with the DOM  <br />
+     Whenever we use component, classes, elements, etc. We’re using React <br />
+     whenever we use methods like render() or findDOMNode() we’re using React-DOM.
