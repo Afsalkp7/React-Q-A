@@ -64,3 +64,8 @@ REACT AND REACTDON
      React DOM is also a javascript library that allow react to interact with the DOM  <br />
      Whenever we use component, classes, elements, etc. We’re using React <br />
      whenever we use methods like render() or findDOMNode() we’re using React-DOM.
+------------
+REACT ELEMENT
+------------
+- What is react element ? <br />
+     it is an object representation of a virtual DOM node. Elements are the smallest building blocks of React apps. An element describes what you want to see on the screen
