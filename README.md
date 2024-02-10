@@ -68,7 +68,7 @@ REACT AND REACTDON
 REACT ELEMENT
 ------------
 - What is react element ? <br />
-     it is an object representation of a virtual DOM node. Elements are the smallest building blocks of React apps. An element describes what you want to see on the screen <br />
+     it is an object representation of a virtual DOM node. Elements are the smallest building blocks of React apps. An element describes what you want to see on the screen. A React element is a lightweight, immutable object representation of a component's structure and properties. These elements are not actual DOM elements; instead, they are virtual representations of UI components. React elements are ultimately transformed into actual DOM elements and rendered onto the screen by the React rendering engine.<br />
 - How to create react element ? <br />
      We can create with 2 types <br />
      first<br />
