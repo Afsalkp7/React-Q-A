@@ -83,7 +83,7 @@ REACT ELEMENT
        ------<br />
   We can create react element using jsx in simply <br />
        eg : - <br />
-       const elem = <h1>Hello world !!</h1>
+       const elem = "<h1>Hello world !!</h1>"
 ------------
 
 ------------
