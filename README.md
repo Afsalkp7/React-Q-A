@@ -68,4 +68,22 @@ REACT AND REACTDON
 REACT ELEMENT
 ------------
 - What is react element ? <br />
-     it is an object representation of a virtual DOM node. Elements are the smallest building blocks of React apps. An element describes what you want to see on the screen
+     it is an object representation of a virtual DOM node. Elements are the smallest building blocks of React apps. An element describes what you want to see on the screen <br />
+- How to create react element ? <br />
+     We can create with 2 types <br />
+     first<br />
+     ----- <br />
+  Import React from "react" then => const elem => call React.createElement() function . it take 3 arguments <br />
+     - Tag
+     - Attributes
+     - Children
+       eg : - const elem = React.createElement("h1",{},"Hello world !!") <br />
+            nb :- {} take attributes eg :- {style:{color:"red"}} <br />
+       Second<br />
+       ------<br />
+  We can create react element using jsx in simply <br />
+       eg : - <br />
+       const elem = <h1>Hello world !!</h1>
+------------
+
+------------
