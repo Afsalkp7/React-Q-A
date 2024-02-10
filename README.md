@@ -85,5 +85,12 @@ REACT ELEMENT
        eg : - <br />
        const elem = "<h1 Hello world !! /h1>"
 ------------
-
+VIRTUAL DOM
 ------------
+- What is actual dom or real dom ? <br />
+     The Real DOM, also known as the actual DOM, is the browser’s representation of a web page’s HTML structure. When a user interacts with a web page, such as clicking a button or filling out a form, the browser updates the Real DOM to reflect the changes. The browser then re-renders the page to display the updated HTML. <br />
+- What is virtual dom ? <br />
+     It is the javascript object representation of actual dom .  The Virtual DOM is a lightweight copy of the Real DOM, which allows for faster updates and improved performance. When a user interacts with a web page, React updates the Virtual DOM, compares it with the previous version, and only updates the Real DOM with the necessary changes. This process is known as Reconciliation.
+- Differences between real dom virtual dom ?<br />
+     -the Real DOM is much slower than the Virtual DOM, as every update requires the browser to recalculate the entire document layout. On the other hand, the Virtual DOM is a lightweight copy of the Real DOM, which allows for faster updates and improved performance.<br/>
+     - the Real DOM is a tree structure, and every node has an attached event listener. When a user interacts with a web page, the browser executes the corresponding event listeners. This process can be slow and resource-intensive. In contrast, the Virtual DOM updates are more efficient, as event listeners are only attached to the root node and not every individual node <br/>
