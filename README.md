@@ -94,3 +94,18 @@ VIRTUAL DOM
 - Differences between real dom virtual dom ?<br />
      -the Real DOM is much slower than the Virtual DOM, as every update requires the browser to recalculate the entire document layout. On the other hand, the Virtual DOM is a lightweight copy of the Real DOM, which allows for faster updates and improved performance.<br/>
      - the Real DOM is a tree structure, and every node has an attached event listener. When a user interacts with a web page, the browser executes the corresponding event listeners. This process can be slow and resource-intensive. In contrast, the Virtual DOM updates are more efficient, as event listeners are only attached to the root node and not every individual node <br/>
+------------
+COMPONENT
+------------
+- What is component ? <br />
+     Components are independent and reusable bits of code. They serve the same purpose as JavaScript functions. component is a javascrpt class or functions that accept input as props and return react elements that describe how a section of UI should appear <br />
+- What are the types of component ? <br />
+     - Class component :- <br />
+          This components are defined in javascript es6 classes , its provoid life cycle method and state <br />
+     - Function component :- <br />
+          This components are javascript functions and donot have their own state, but they can receive and render props.<br />
+- Other types of components ? <br />
+     - Pure component :- <br />
+     - Stateless function components :- <br />
+     - Higher order components :- <br />
+     - Context components :- <br />
