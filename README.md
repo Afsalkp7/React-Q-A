@@ -109,3 +109,9 @@ COMPONENT
      - Stateless function components :- <br />
      - Higher order components :- <br />
      - Context components :- <br />
+- What is pure component ? <br/>
+     Pure component is a specific implimentation of react component . It automatically impliment a "shouldComponentUpadte()" method , This method with a shallow comparison of sates and props. If there are no changes dettermine in shallow comparison , the component will not re-render<br />
+       - The shallow comparison checks for differences at the top level of the props and state objects <br />
+       - If the shallow comparison indicates that the props and state have not changed, React skips the rendering process for that component, <br />
+       - optimizing performance by preventing unnecessary re-renders. <br />
+     
