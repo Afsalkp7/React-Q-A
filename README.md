@@ -57,7 +57,7 @@ REACT
        🚀 Easy to use and learn <br />
        🚀 Code reusability <br />
 ----------
-REACT AND REACTDON
+REACT AND REACTDOM
 ----------
 - Difference between react and react dom ? <br />
      React is a javascript library for creating interactive user interfaces<br />
