@@ -114,4 +114,11 @@ COMPONENT
        - The shallow comparison checks for differences at the top level of the props and state objects <br />
        - If the shallow comparison indicates that the props and state have not changed, React skips the rendering process for that component, <br />
        - optimizing performance by preventing unnecessary re-renders. <br />
-     
+- What is state less function component ? <br />
+     It refers to function component , That does not have their own internal state , its known as functional component, Functional components are defined as JavaScript functions that accept props as input and return React elements to describe what should be rendered on the UI. <small>With the introduction of React hooks in React 16.8, functional components gained additional capabilities, such as the ability to manage state and side effects using hooks like useState, useEffect, and others. This made functional components more versatile and capable of handling complex logic previously reserved for class components.</small>
+- What is stateful component ?<br />
+     A "stateful component" in React refers to a class component that manages its own internal state. Unlike stateless functional components,tateful components have the ability to maintain and update their state independently.
+- What is higher order component ?<br />
+     Higher Order Components in React are functions that take a component and return a new component with enhanced functionality. This pattern allows for the reuse of component logic across multiple components without repeating code. <small>Higher Order Components in React are functions that enhance the functionality of components by wrapping them with additional logic or behavior, promoting code reusability and modularity in React applications.</small>
+- what is context component ? <br />
+      context components provide a convenient way to manage global state and share data across components in a React application, enhancing code organization and reducing the need for prop drilling.
