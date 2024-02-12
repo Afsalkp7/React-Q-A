@@ -123,15 +123,16 @@ COMPONENT
 - what is context component ? <br />
       context components provide a convenient way to manage global state and share data across components in a React application, enhancing code organization and reducing the need for prop drilling.
 ----------
-STATE AND RPOPS
+STATE AND PROPS
 ----------
 - What is state and props ? <br />
      state and props both are fundamental concept using for managing and passing data from one component to another, but they have different functions and characteristics.
-  PORPS (Properties):- <br />
+  PROPS (Properties):- <br />
        - Props are short for "properties" and are a mechanism for passing data from parent to child component in react <br />
        - Props are immutable . Meaning they canot modified by the component that receives them. <br />
        - They contain any type of data such as array,string,number or a jsx elements too. <br />
        - Component only can pass props on a unidirectional manner, where data flow frm parent to child only . <br />
        - example :- <Component propsName = {Props value} />
   STATE :- <br />
-       - 
+       - In react , state is a normal javascript object , that store data or informations related to react component. It can be used for store,manage and update data with in the application , it allow for dynamic changes to user inteface. <br />
+
