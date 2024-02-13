@@ -146,3 +146,5 @@ HOOKS
      useEffect is a built-in hook in React that allows functional components to perform side effects. Side effects are actions that occur outside the scope of the component rendering, <br />
 - useContext :- <br />
       Context allows you to pass data through the component tree without having to pass props manually at every level. It's particularly useful for sharing state or other data between components that are not directly related in the component tree. <br />
+- useRef :- <br />
+     useRef is a hooks that allow to create you to create mutable reference to an element or value , unlike setState , updating a useRef doesnot trigger the re render of the component
