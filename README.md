@@ -135,4 +135,14 @@ STATE AND PROPS
        - example :- <Component propsName = {Props value} /> <br />
   STATE :- <br />
        - In react , state is a normal javascript object , that store data or informations related to react component. It can be used for store,manage and update data with in the application , it allow for dynamic changes to user inteface. <br />
-
+---------
+HOOKS
+---------
+- What is hooks ?<br/>
+     Hooks in React are functions that enable functional components to have stateful logic and interact with React features that were previously only available in class components. <br />
+- useState :- <br />
+     used for managing states within the functional components. States are used to manage and store some data within a component.<br />
+- useEffect :- <br />
+     useEffect is a built-in hook in React that allows functional components to perform side effects. Side effects are actions that occur outside the scope of the component rendering, <br />
+- useContext :- <br />
+      Context allows you to pass data through the component tree without having to pass props manually at every level. It's particularly useful for sharing state or other data between components that are not directly related in the component tree. <br />
