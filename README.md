@@ -175,4 +175,23 @@ OUTLET
 HOT MODULE REPLACEMENT
 ----------
 - What is HMR :- <br/>
-     Hot module replacement is it allow all kind of modules to update at runtime without needing a full refresh.
+     Hot module replacement is it allow all kind of modules to update at runtime without needing a full refresh.<br />
+----------
+LIFTING STATE UP
+----------
+- What is lifting state up ?<br />
+      you want the state of two components to always change together. To do it, remove state from both of them, move it to their closest common parent, and then pass it down to them via props.<br />
+-----------
+CONTROLLED AND UNCONTROLLED
+-----------
+- What is controlled component ?<br />
+     A component able to control the state it self<br />
+- What is uncontrolled component > <br />
+     The state is controlled by DOM and you can still access the value of input through ref <br />
+-----------
+DIFFER AND ASYNC
+-----------
+- What is async ? <br />
+     It download the script parallel and execute as soon.<br />
+- What is differ ? <br />
+     It download the script parallel and execute after the page has finished parsing.
