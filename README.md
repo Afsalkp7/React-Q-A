@@ -157,3 +157,12 @@ HOOKS
 - useCallback :- <br />
 - useMemo :- <br />
 -----------
+RECONCILIATION
+-----------
+- What is reconciliation :- < br />
+     reconciliation is the process of updating the user interface to reflect the changes in application's data ans state . when a user interact with web pages react creat the virtuak dom and compare difference between newly updated virtual dom and previous one and upadate the DOM with only nessecory changes  <br />
+-----------
+REACT FIBER
+-----------
+- What is react fiber ? <br />
+     React fiber updating the react that make user interface more responsive . when a user interact with application , react fiber help in this interaction by breaking down tasks in to small pieces prioritizing what the more importent and pausing and resuming work as needed This means the app can respond quickly to your actions,
