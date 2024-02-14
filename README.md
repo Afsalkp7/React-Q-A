@@ -165,4 +165,14 @@ RECONCILIATION
 REACT FIBER
 -----------
 - What is react fiber ? <br />
-     React fiber updating the react that make user interface more responsive . when a user interact with application , react fiber help in this interaction by breaking down tasks in to small pieces prioritizing what the more importent and pausing and resuming work as needed This means the app can respond quickly to your actions,
+     React fiber updating the react that make user interface more responsive . when a user interact with application , react fiber help in this interaction by breaking down tasks in to small pieces prioritizing what the more importent and pausing and resuming work as needed This means the app can respond quickly to your actions,<br />
+-----------
+OUTLET
+-----------
+- What is outlet :- <br />
+     It is a built in component from react router dom. it should use in parent route element to render child route element.<br />
+-----------
+HOT MODULE REPLACEMENT
+----------
+- What is HMR :- <br/>
+     Hot module replacement is it allow all kind of modules to update at runtime without needing a full refresh.
