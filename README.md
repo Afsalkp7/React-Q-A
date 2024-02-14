@@ -46,6 +46,12 @@ CROSSORIGIN
 - What is `crossorigin in script tag`?  <br />
      crossorigin attribute is used to share the resources from one domain to another domain. Basically, it is used to handle the CORS request . That checks whether it is safe to allow for sharing the resources from other domains.
 ----------
+BUNDLERS
+----------
+- What is bundles ? <br />
+     It is a tool used to bundle and optimize the various assests of a application for diployment . In react application typically consist of javascript files , images , stylesheets and other , these all files are combain to a single bundle  making them easier to deliver to the client's browser.<br />
+     ewamples :- webpack , viet , parcel
+-----------
 REACT
 ----------
 - What is REACT ?
@@ -147,4 +153,7 @@ HOOKS
 - useContext :- <br />
       Context allows you to pass data through the component tree without having to pass props manually at every level. It's particularly useful for sharing state or other data between components that are not directly related in the component tree. <br />
 - useRef :- <br />
-     useRef is a hooks that allow to create you to create mutable reference to an element or value , unlike setState , updating a useRef doesnot trigger the re render of the component
+     useRef is a hooks that allow to create you to create mutable reference to an element or value , unlike setState , updating a useRef doesnot trigger the re render of the component <br />
+- useCallback :- <br />
+- useMemo :- <br />
+-----------
