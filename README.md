@@ -195,3 +195,4 @@ DIFFER AND ASYNC
      It download the script parallel and execute as soon.<br />
 - What is differ ? <br />
      It download the script parallel and execute after the page has finished parsing.
+-------------
