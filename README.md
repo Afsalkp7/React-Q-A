@@ -21,7 +21,7 @@ SPA
                MPA may have slower performance due to reload entire page <br />
      ▶ Performance : - <br />
                SPA only fetch and render the neccessory data for each interaction so its tend to be efficient in data transfer and server load. <br />
-               MPA may reqiure serve to genarate and serve complete HTML page for each request so its take higher serve load and slower performance
+               MPA may reqiure serve to genarate and serve complete HTML page for each request so its take higher serve load and slower performance <br />
      ▶ Development : - <br />
                SPA can be more complex to develop and maintain , Especially for large application due to the need for client-side routing , state management and asynchronous data handling <br />
                MPA is easier or simpler development required , they follow more treditional server-side rendering approach <br />
